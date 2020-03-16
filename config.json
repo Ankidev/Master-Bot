@@ -1,1 +1,9 @@
-
+{
+  "prefix": "X",  // You can change the prefix to whatever you want it doesn't have to be - !
+  "token": "Your-Bot-TokenNjg5MjA4NDMxNTAwMTk3OTky.Xm_hbw.j3mYqTcOAq5cReIEX3C2GNrmQ8Q",
+  "tenorAPI": "QUUGIT0269R8",
+  "newsAPI": "news-api-key880981ee9aef470f87a2e911f9f2df31",
+  "youtubeAPI": "youtube-api-keyAIzaSyBekDpq4oq8Up_bBeP6dOnNq-mVABuCLl4",
+  "yandexAPI": "yandex-api-keytrnsl.1.1.20200316T203629Z.d38ff1c36223ae1c.8f3ca42e072e7e7d6dc5c0d38ece395648616310",
+  "geniusLyricsAPI": "3OOgnA8FUgBEz9qJHJ6IUTOA26giWMnuHTZ1R6ehZNXWw5Zkk7uvFkEr5iIjYsBt"
+}
